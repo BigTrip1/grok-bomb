@@ -1,0 +1,26 @@
+# Core API and HTTP
+requests==2.31.0
+aiohttp==3.9.1
+
+# Environment management
+python-dotenv==1.0.0
+
+# Video processing
+opencv-python==4.8.1.78
+moviepy==1.0.3
+numpy==1.24.3
+scikit-image==0.21.0
+
+# Deep learning / GPU support
+torch==2.1.0
+torchvision==0.16.0
+
+# Progress bars and utilities
+tqdm==4.66.1
+
+# Social media API (for X roasts)
+tweepy==4.14.0
+
+# Async support
+asyncio-timeout==4.0.3
+
